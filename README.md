@@ -1,14 +1,4 @@
-# Handshape Recognition with Caffe
+# Example project for react-native-coreml-image
+Example 🌭 or not 🌭 iOS project for https://github.com/jigsawxyz/react-native-coreml-image
 
-## Installation
-
-```bash
-git clone https://github.com/rizkyario/handshape-recognition.git
-```
-
-## Usage
-
-```bash
-docker-compose up
-open http://0.0.0.0:8888/notebooks/notebooks/hand-recognition.ipynb?token=caffe
-```
+![Alt Text](images/demo.gif)
